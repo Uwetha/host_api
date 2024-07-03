@@ -1,0 +1,73 @@
+[
+  {
+    "teacher_id": 1,
+    "degree": "B.A",
+    "course": "Mathematics",
+    "semester": "Fall 2024",
+    "section": "A"
+  },
+  {
+    "teacher_id": 2,
+    "degree": "M.A. in English Literature",
+    "course": "English Literature",
+    "semester": "Spring 2025",
+    "section": "B"
+  },
+  {
+    "teacher_id": 3,
+    "degree": "Ph.D. in Computer Science",
+    "course": "Computer Science",
+    "semester": "Summer 2024",
+    "section": "C"
+  },
+  {
+    "teacher_id": 4,
+    "name": "Emily Davis",
+    "degree": "Ph.D. in History",
+    "course": "History",
+    "semester": "Fall 2024",
+    "section": "D"
+  },
+  {
+    "teacher_id": 5,
+    "degree": "M.Sc. in Physics",
+    "course": "Physics",
+    "semester": "Spring 2025",
+    "section": "A"
+  },
+  {
+    "teacher_id": 6,
+    "degree": "Btech",
+    "course": "Chemistry",
+    "semester": "Fall 2024",
+    "section": "B"
+  },
+  {
+    "teacher_id": 7,
+    "degree": "MBA",
+    "course": "Economics",
+    "semester": "Spring 2025",
+    "section": "C"
+  },
+  {
+    "teacher_id": 8,
+    "degree": "Ph.D. in Biology",
+    "course": "Biology",
+    "semester": "Summer 2024",
+    "section": "D"
+  },
+  {
+    "teacher_id": 9,
+    "degree": "BBA",
+    "course": "Psychology",
+    "semester": "Fall 2024",
+    "section": "A"
+  },
+  {
+    "teacher_id": 10,
+    "degree": "MCA",
+    "course": "Sociology",
+    "semester": "Spring 2025",
+    "section": "B"
+  }
+]
